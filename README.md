@@ -38,18 +38,18 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/web-portfolio.git
+git clone https://github.com/0FunnyDays/Portofolio
 cd web-portfolio
 
 Install dependencies:
 
-npm install # or yarn install
+**npm install # or yarn install**
 
 Running the Project
 
 To start the development server:
 
-npm run dev # or yarn dev
+**npm run dev # or yarn dev**
 
 This will start the Next.js development server at http://localhost:3000.
 
@@ -72,4 +72,4 @@ GitHub Pages 📂 (with static export)
 
 Contact
 
-For any inquiries, feel free to reach out at [your email or social media].
+For any inquiries, feel free to reach out at [dritan_douka@outlook.com].
